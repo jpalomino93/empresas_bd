@@ -245,3 +245,7 @@ Obtener un parámetro por etiqueta:
 ```bash
 aws ssm get-parameter --name "/dev/rucsystem/database/index-name:Producción"
 ```
+
+
+
+Repositorio Local Jose Miguel : https://github.com/jpalomino93/empresas_bd.git
